@@ -1,7 +1,7 @@
 ## Olá Mundo!
 
-- 🔭 Estudante do Instituto Federal de Educação, Ciência e Tecnologia - campus Bragança Paulista
-- 🌱 Atualmente estudando Python e Javascript
+- 📚 Estudante do Instituto Federal de Educação, Ciência e Tecnologia - campus Bragança Paulista
+- 💻 Atualmente estudando Python e Javascript
 
 <div style="center">
  <br>
