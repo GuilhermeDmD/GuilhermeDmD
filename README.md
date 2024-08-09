@@ -19,8 +19,14 @@
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </div>
-          
-          
+
+  ## Contato
+<div style="display: inline_block">
+ <br>
+ <img height ="50em" width="50em" alt="email" src="https://www.svgrepo.com/show/3593/mail-with-star.svg"> 
+  <img height ="50em" width="50em" alt="ig" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"> 
+</div>
+
 
 
 
