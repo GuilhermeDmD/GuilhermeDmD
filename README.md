@@ -23,7 +23,7 @@
   ## Contato
 <div style="display: inline_block">
  <br>
- <a href="guilhermegdmd@gmail.com">
+ <a href="https:/www.gmail.com/guilhermegdmd@gmail.com/">
  <img height ="50em" width="50em" alt="email" src="https://www.svgrepo.com/show/3593/mail-with-star.svg"> 
   </a>
  <a href="https://www.instagram.com/dmd_guilherme/">
