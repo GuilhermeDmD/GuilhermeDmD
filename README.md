@@ -20,12 +20,9 @@
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   </div>
 
-  ## Contato
+  ## Social
 <div style="display: inline_block">
  <br>
- <a href="https:/www.gmail.com/guilhermegdmd@gmail.com/">
- <img height ="50em" width="50em" alt="email" src="https://www.svgrepo.com/show/3593/mail-with-star.svg"> 
-  </a>
  <a href="https://www.instagram.com/dmd_guilherme/">
   <img height ="50em" width="50em" alt="ig" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"> 
  </a>
