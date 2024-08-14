@@ -26,9 +26,12 @@
  <a href="https://www.instagram.com/dmd_guilherme/">
   <img height ="50em" width="50em" alt="ig" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"> 
  </a>
+ <a href="https://guilhermedmd.github.io/">
+  <img height="45em" width="45em" src="https://github.com/user-attachments/assets/07663a06-057a-450a-8dfa-1f8043c4e235">
+ </a>
 </div>
 
-<a href="https://guilhermedmd.github.io/">##Conheça meus projetos</a>
+
 
 
 
