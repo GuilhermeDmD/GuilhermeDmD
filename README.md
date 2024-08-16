@@ -7,7 +7,6 @@
  <a href="https://github.com/GuilhermeDmD">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDmD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDmD&layout=compact&langs_count=16&theme=dark"/>
-  <img height="150em" src="https://i.pinimg.com/originals/ca/df/fa/cadffa64e6ef7d611d0b6608d79378a3.gif"/>
 </div>
 
 
