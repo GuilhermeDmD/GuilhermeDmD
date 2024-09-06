@@ -1,7 +1,6 @@
 ## Olá Mundo!👋
 - 📚 Estudante de Análise e desenvolvimento de sistemas no IFSP
 - 💻 Técnico em informática pelo IFSP
-- 💼 Atualmente estagiando
 
 <div style="center">
  <br>
