@@ -10,24 +10,19 @@
 </div>
 
 ## Meu conhecimentos
-<div style="display:flex; justify-content: center;">
+<div>
   <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-          
 </div>
 
   ## Contato
-<div style="display:flex;">
+<div>
  <a href="https://www.linkedin.com/in/guilherme-domingues-4a8589332/">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />        
- </a>
- <a href="https://guilhermedmd.github.io/">
-  <img height="40" width="40" src="https://github.com/user-attachments/assets/07663a06-057a-450a-8dfa-1f8043c4e235">
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />        
  </a>
 </div>
 
