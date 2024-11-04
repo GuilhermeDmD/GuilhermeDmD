@@ -1,7 +1,7 @@
 ## Olá Mundo!👋
-💻 Sou estudante de Análise e desenvolvimento de sistemas do Instituto Federal.
-📚 Além disso, também tenho a formação de Técnico em Informática pela mesma instituição. 
-💭 Atualmente, gasto meu tempo aprendendo novas linguagens de programação como Python e Javascript.
+- 💻 Sou estudante de Análise e desenvolvimento de sistemas do Instituto Federal.
+- 📚 Além disso, também tenho a formação de Técnico em Informática pela mesma instituição.
+- 💭 Atualmente, gasto meu tempo aprendendo novas linguagens de programação como Python e Javascript.
 
 <div style="center">
  <br>
