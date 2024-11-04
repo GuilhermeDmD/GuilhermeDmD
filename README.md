@@ -1,6 +1,7 @@
 ## Olá Mundo!👋
-- 📚 Estudante de Análise e desenvolvimento de sistemas no IFSP
-- 💻 Técnico em informática pelo IFSP
+💻 Sou estudante de Análise e desenvolvimento de sistemas do Instituto Federal.
+📚 Além disso, também tenho a formação de Técnico em Informática pela mesma instituição. 
+💭 Atualmente, gasto meu tempo aprendendo novas linguagens de programação como Python e Javascript.
 
 <div style="center">
  <br>
@@ -10,7 +11,7 @@
  <br/>
 </div>
 
-<div style="display:flex;">
+<div style="display:flex; justify-content: center;">
   <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
