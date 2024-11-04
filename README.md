@@ -3,13 +3,13 @@
 - 📚 Além disso, também tenho a formação de Técnico em Informática pela mesma instituição.
 - 💭 Atualmente, gasto meu tempo aprendendo novas linguagens de programação como Python e Javascript.
 
-<div style="center">
+<center>
  <br>
  <a href="https://github.com/GuilhermeDmD">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeDmD&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDmD&layout=compact&langs_count=16&theme=nightowl"/>
  <br/>
-</div>
+</center>
 
 ## Meu conhecimentos
 <div style="display:flex; justify-content: center;">
