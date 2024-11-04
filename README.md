@@ -11,6 +11,7 @@
  <br/>
 </div>
 
+## Meu conhecimentos
 <div style="display:flex; justify-content: center;">
   <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
