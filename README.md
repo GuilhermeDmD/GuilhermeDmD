@@ -25,8 +25,8 @@
 
   ## Social
 <div style="display:flex;">
- <a href="https://www.instagram.com/dmd_guilherme/">
-  <img height ="45" width="45" alt="ig" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png"> 
+ <a href="https://www.linkedin.com/in/guilherme-domingues-4a8589332/">
+  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />        
  </a>
  <a href="https://guilhermedmd.github.io/">
   <img height="40" width="40" src="https://github.com/user-attachments/assets/07663a06-057a-450a-8dfa-1f8043c4e235">
